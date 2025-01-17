@@ -1,6 +1,6 @@
 # Web API para Gerenciamento de Produtos
 
-Uma aplicação ASP.NET Core Web API com Entity Framework Core, PostgreSQL e FluentValidation.
+Uma aplicação ASP.NET Core Web API com Entity Framework Core, PostgreSQL, Docker e FluentValidation.
 
 ## Descrição do Projeto
 Esta aplicação permite realizar operações de CRUD em uma entidade de Produtos.
